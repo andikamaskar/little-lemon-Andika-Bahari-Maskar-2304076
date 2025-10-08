@@ -16,7 +16,7 @@ const RootNavigator = () => {
         {{
           title: 'Subscribe',
           headerBackTitle: 'Welcome', 
-          headerBackVisible: true, 
+          headerBackVisible: true,
         }}/>
     </Stack.Navigator>
   );

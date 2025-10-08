@@ -55,3 +55,9 @@ Setelah semua dependensi terinstal, jalankan perintah berikut untuk memulai serv
 npx expo start
 
 ```
+
+### LAMPIRAN SCREENSHOT
+![Tampilan Welcome](assets/screenshots/TampilanWelcome.jpg)
+![Tampilan Subscribe](assets/screenshots/TampilanSubscribe.jpg)
+![Validasi Email](assets/screenshots/ValidasiEmail.jpg)
+![Tampilan Pop Up](assets/screenshots/PopUp.jpg)
