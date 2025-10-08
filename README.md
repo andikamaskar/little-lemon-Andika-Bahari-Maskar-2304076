@@ -57,7 +57,10 @@ npx expo start
 ```
 
 ### LAMPIRAN SCREENSHOT
-![Tampilan Welcome](assets/screenshots/TampilanWelcome.jpg)
-![Tampilan Subscribe](assets/screenshots/TampilanSubscribe.jpg)
-![Validasi Email](assets/screenshots/ValidasiEmail.jpg)
-![Tampilan Pop Up](assets/screenshots/PopUp.jpg)
+<p align="center">
+  <img src="./assets/screenshots/TampilanWelcome.jpg" width="200"/>
+  <img src="./assets/screenshots/TampilanSubscribe.jpg" width="200"/>
+  <img src="./assets/screenshots/ValidasiEmail.jpg" width="200"/>
+  <img src="./assets/screenshots/PopUp.jpg" width="200"/>
+</p>
+
