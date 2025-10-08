@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🧩 Tugas 3 - Mobile Programming IK322  
 Repositori ini berisi proyek untuk **Tugas 3** mata kuliah **Pemrograman Mobile**.  
 Aplikasi ini dibuat menggunakan **React Native** dan **Expo**, menampilkan profil minuman *Little Lemon* dan laman untuk *Subscribe*.  
@@ -22,19 +21,19 @@ Aplikasi ini terdiri dari dua layar utama yang diatur menggunakan **Stack Naviga
 
 ## ✨ Fitur Utama  
 
-- 🖼️ **Tampilan Profil**  
+- **Tampilan Profil**  
   Menampilkan logo *Little Lemon* di tengah layar dan teks pengantar singkat.  
 
-- 🔄 **Navigasi Antar Halaman**  
+- **Navigasi Antar Halaman**  
   Menggunakan *React Navigation (Stack Navigator)* untuk berpindah antar layar (Welcome → Subscribe).  
 
-- 💬 **Validasi Email Otomatis**  
+- **Validasi Email Otomatis**  
   Tombol *Subscribe* berubah warna menjadi hijau ketika input email valid (mengandung `@` dan `.`).  
 
-- 📩 **Pop-up Interaktif**  
-  Setelah menekan tombol *Subscribe*, muncul pesan *“Thanks for subscribing!”* menggunakan *custom modal*.  
+- **Pop-up Interaktif**  
+  Setelah menekan tombol *Subscribe*, muncul pesan *“Thanks for subscribing!”* menggunakan *custom modal* agar yang android terlihat seperti IOS.  
 
-- 🎨 **Desain Responsif dan Modern**  
+- **Desain Responsif dan Modern**  
   Menggunakan *custom style* berbasis `StyleSheet` dan font khusus (`Poppins`) agar tampilan lebih menarik.  
 
 ---
@@ -47,10 +46,6 @@ Buka terminal di direktori proyek dan jalankan perintah berikut:
 
 ```bash
 npm install
-=======
-## Little Lemon
 
-This is the code example for the newsletter subscription application.
-
-![](little_lemon.gif)
->>>>>>> 64c57502561d1196cddab403750377939ae2491c
+```bash
+npm expo start
