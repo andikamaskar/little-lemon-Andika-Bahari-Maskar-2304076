@@ -48,7 +48,7 @@ Buka terminal di direktori proyek dan jalankan perintah berikut:
 npm install
 
 ```
-### 🚀 2️⃣ Menjalankan Aplikasi
+### 2️⃣ Menjalankan Aplikasi
 Setelah semua dependensi terinstal, jalankan perintah berikut untuk memulai server pengembangan **Expo**:
 
 ```bash
