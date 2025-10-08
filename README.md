@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧩 Tugas 3 - Mobile Programming IK322  
 Repositori ini berisi proyek untuk **Tugas 3** mata kuliah **Pemrograman Mobile**.  
 Aplikasi ini dibuat menggunakan **React Native** dan **Expo**, menampilkan profil minuman *Little Lemon* dan laman untuk *Subscribe*.  
@@ -46,3 +47,10 @@ Buka terminal di direktori proyek dan jalankan perintah berikut:
 
 ```bash
 npm install
+=======
+## Little Lemon
+
+This is the code example for the newsletter subscription application.
+
+![](little_lemon.gif)
+>>>>>>> 64c57502561d1196cddab403750377939ae2491c
